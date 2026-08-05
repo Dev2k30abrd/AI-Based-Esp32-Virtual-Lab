@@ -25,4 +25,4 @@ Body: `{"prompt": "...", "session_id": "<optional, from previous reply>"}`
 Models per stage are set in `configure.py` (`CLARIFY_MODEL`,
 `BLOCKLY_MODEL`, `ARDUINO_MODEL`), defaulting to free OpenRouter
 models (Nemotron Ultra, Qwen3 Coder, Llama 3.3). Swap the `MODELS`
-dict entries to try others.
+dict entries to try others.  
